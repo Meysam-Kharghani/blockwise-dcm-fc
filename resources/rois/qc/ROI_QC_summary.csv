@@ -1,0 +1,5 @@
+ROI,mask_type,center_or_bounds_MNI,dimensions,voxel_size_mm,nonzero_voxels,approx_volume_mm3,affine_origin,description,voxelwise_script_match
+IFG_L,sphere,"center [-48 28 0], radius 6 mm","91x109x91","2x2x2",123,984,"[90 -126 -72]",sphere ROI,IDENTICAL
+V1_L,sphere,"center [-16 -98 -10], radius 6 mm","91x109x91","2x2x2",123,984,"[90 -126 -72]","Sphere ROI V1/2_L (6.0mm) at [-16 -98 -10]",IDENTICAL
+lOTC,box,"X -58:-36; Y -86:-66; Z -18:6","91x109x91","2x2x2",1716,13728,"[88 -124 -70]","lOTC Box ROI (Duncan 2009)",IDENTICAL
+vOTC,box,"X -56:-32; Y -68:-44; Z -28:-2","91x109x91","2x2x2",2366,18928,"[88 -124 -70]","vOTC Box ROI (Duncan 2009)",IDENTICAL

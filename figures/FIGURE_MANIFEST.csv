@@ -1,0 +1,23 @@
+Placement,FileStem,Title
+Main,Figure_1_Core_Analytical_Strategy,Core analytical strategy
+Main,Figure_2_DCM_Block_and_Late_Heatmaps,DCM block estimates and Late contrast
+Main,Figure_3_All_12_DCM_Late_Effects,All 12 directed between-region DCM Late effects
+Main,Figure_4_PEB_BMA_All_12_Late_Effects,PEB/BMA Late effects for all 12 between-region connections
+Main,Figure_5_SelfConnections_and_ModelBehavior,Self-connections and model behavior
+Main,Figure_6_Raw_and_Residual_FC_All_Edges,Raw and residual FC trajectories
+Supplementary,DCM_RunSpecific_Mean_Heatmaps,Run-specific mean DCM heatmaps
+Supplementary,DCM_WeightedMedian_Heatmaps,Weighted median DCM heatmaps
+Supplementary,DCM_WeightedMode_Heatmaps,Weighted mode DCM heatmaps
+Supplementary,DCM_AllEdge_Trajectories_ByRun,All DCM edge trajectories by run
+Supplementary,DCM_SelfConnections_ByRun,Self-connections by run
+Supplementary,DCM_ModelFit_FreeEnergy,Model fit and free energy
+Supplementary,DCM_StrongestEdge_Trajectories,Strongest descriptive DCM edge trajectories
+Supplementary,DCM_ParticipantLevel_StrongestEdges,Participant-level strongest-edge trajectories
+Supplementary,DCM_PositiveLateContrast_Prevalence,Positive Late-contrast prevalence
+Supplementary,DCM_ParticipantByEdge_LateContrast,Participant-by-edge Late-contrast heatmap
+Supplementary,DCM_NodeLevel_Roles_AcrossBlocks,Node-level incoming and outgoing DCM roles
+Supplementary,PEB_Top12_Late_Effects,Top 12 PEB/BMA Late parameters
+Supplementary,PEB_Top12_Mean_Effects,Top 12 PEB/BMA Mean parameters
+Supplementary,FC_RawResidual_TemporalChanges,Aggregate raw and residual FC temporal changes
+Supplementary,FC_Raw_Heatmaps_ByBlockRun,Raw FC heatmaps by block and run
+Supplementary,Integrated_Blockwise_Overview,Integrated blockwise overview

@@ -1,0 +1,7 @@
+Run,Condition,N_present
+Run 1,Block-01,3
+Run 1,Block-02,0
+Run 1,Block-03,229
+Run 2,Block-01,11
+Run 2,Block-02,5
+Run 2,Block-03,254

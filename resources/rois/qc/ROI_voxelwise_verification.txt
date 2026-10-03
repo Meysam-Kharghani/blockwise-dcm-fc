@@ -1,0 +1,13 @@
+Voxelwise verification regenerated each distributed ROI mask from the supplied MATLAB specifications and compared the regenerated mask with the distributed reference NIfTI file.
+
+Results:
+IFG_L_mask.nii: regenerated voxel count = 123; reference voxel count = 123; differing voxels = 0; voxel sets identical.
+V1_L_mask.nii: regenerated voxel count = 123; reference voxel count = 123; differing voxels = 0; voxel sets identical.
+lOTC_mask.nii: regenerated voxel count = 1716; reference voxel count = 1716; differing voxels = 0; voxel sets identical.
+vOTC_mask.nii: regenerated voxel count = 2366; reference voxel count = 2366; differing voxels = 0; voxel sets identical.
+
+Overlap check:
+vOTC/lOTC overlap = 198 voxels (1584 mm3), restricted to the boundary of the Duncan-derived box masks.
+All other ROI pairs: 0 overlapping voxels.
+
+The supplied reproducibility scripts explicitly encode the MNI centers/bounds and grid geometry of the masks distributed with this repository.
