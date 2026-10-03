@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article and this repository release."
+title: "Block-Specific Full-Run DCM and Functional Connectivity Analysis"
+type: software
+authors:
+  - family-names: Hakimjavadi
+    given-names: Amir
+    affiliation: "Department of Psychology, Universitat Rovira i Virgili, Tarragona, Spain"
+    email: amir.hakimjavadi@estudiants.urv.cat
+  - family-names: Kharghani
+    given-names: Meysam
+    affiliation: "Department of Cognitive Neuroscience, Faculty of Education and Psychology, University of Tabriz, Tabriz, Iran"
+    email: meysamkharghani@gmail.com
+  - family-names: Zare-Sadeghi
+    given-names: Arash
+    affiliation: "Medical Physics Department, Iran University of Medical Sciences, Tehran, Iran"
+    email: zare.a@iums.ac.ir
+version: 1.0.0
+date-released: 2026-10-02
+license: MIT
+repository-code: "https://github.com/Meysam-Kharghani/blockwise-dcm-fc"
+url: "https://github.com/Meysam-Kharghani/blockwise-dcm-fc"
+keywords:
+  - dynamic causal modelling
+  - effective connectivity
+  - fMRI
+  - functional connectivity
+  - Parametric Empirical Bayes
+  - visual one-back task

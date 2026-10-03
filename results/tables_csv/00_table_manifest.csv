@@ -1,0 +1,42 @@
+table_file,description
+block_timing_FC_blocks_COND.csv,Three-block timing table used for block selection.
+dcm_01_run_edge_summary.csv,Run-specific DCM edge summary.
+dcm_02_weighted_edge_summary_all_subject_runs.csv,DCM edge summary pooled across participant-run observations.
+dcm_03_subject_runavg_edge_summary.csv,DCM edge summary after averaging runs within participant.
+dcm_04_edge_contrasts_runaveraged.csv,Run-averaged participant-level DCM block contrasts; FDR is controlled across the 12 between-region edges within each contrast.
+dcm_05_edge_contrasts_by_run.csv,Within-run DCM block contrasts; FDR is controlled across the 12 between-region edges within each run and contrast.
+dcm_06_aggregate_offdiag_self_summary_by_run.csv,Run-specific aggregate DCM summaries.
+dcm_07_aggregate_offdiag_self_summary_weighted.csv,Pooled aggregate DCM summaries.
+dcm_08_aggregate_offdiag_self_contrasts.csv,Aggregate DCM block contrasts.
+dcm_09_node_strength_summary_by_run.csv,Run-specific node-level DCM summaries.
+dcm_10_node_strength_summary_weighted.csv,Pooled node-level DCM summaries.
+dcm_11_node_strength_contrasts.csv,Node-level DCM block contrasts.
+dcm_fit_01_group_summary.csv,Group model-fit summary.
+dcm_fit_02_model_fit_long_with_flags.csv,Per-model fit values and QC flags.
+dcm_fit_03_outliers.csv,Models flagged by robust fit criteria.
+dcm_qc_01_edge_prevalence_by_run.csv,Run-specific posterior parameter prevalence summary.
+dcm_qc_02_edge_prevalence_weighted.csv,Posterior parameter prevalence pooled across runs.
+dcm_qc_03_file_level.csv,File-level DCM QC summary.
+fc_compare_01_raw_vs_residual_aggregate_by_run.csv,Raw-versus-residual functional-connectivity comparison.
+fc_compare_02_raw_vs_residual_aggregate_weighted.csv,Raw-versus-residual functional-connectivity comparison.
+fc_missing_inventory.csv,Inventory of missing raw/residual FC observations.
+fc_raw_01_run_edge_summary.csv,Raw functional-connectivity summary or contrast table.
+fc_raw_02_weighted_edge_summary_all_subject_runs.csv,Raw functional-connectivity summary or contrast table.
+fc_raw_03_subject_runavg_edge_summary.csv,Raw functional-connectivity summary or contrast table.
+fc_raw_04_edge_contrasts_runaveraged.csv,Raw functional-connectivity summary or contrast table.
+fc_raw_05_edge_contrasts_by_run.csv,Raw functional-connectivity summary or contrast table.
+fc_raw_06_aggregate_summary_by_run.csv,Raw functional-connectivity summary or contrast table.
+fc_raw_07_aggregate_summary_weighted.csv,Raw functional-connectivity summary or contrast table.
+fc_raw_08_aggregate_contrasts.csv,Raw functional-connectivity summary or contrast table.
+fc_residual_01_run_edge_summary.csv,Task-regressed residual functional-connectivity summary or contrast table.
+fc_residual_02_weighted_edge_summary_all_subject_runs.csv,Task-regressed residual functional-connectivity summary or contrast table.
+fc_residual_03_subject_runavg_edge_summary.csv,Task-regressed residual functional-connectivity summary or contrast table.
+fc_residual_04_edge_contrasts_runaveraged.csv,Task-regressed residual functional-connectivity summary or contrast table.
+fc_residual_05_edge_contrasts_by_run.csv,Task-regressed residual functional-connectivity summary or contrast table.
+fc_residual_06_aggregate_summary_by_run.csv,Task-regressed residual functional-connectivity summary or contrast table.
+fc_residual_07_aggregate_summary_weighted.csv,Task-regressed residual functional-connectivity summary or contrast table.
+fc_residual_08_aggregate_contrasts.csv,Task-regressed residual functional-connectivity summary or contrast table.
+peb_01_bma_all_effects.csv,PEB/BMA posterior effects for all A-matrix parameters and design effects.
+peb_02_bma_retained_pp_ge_95.csv,PEB/BMA effects retained at posterior probability >= .95.
+peb_03_participant_indicator_sensitivity_all_effects.csv,Participant-indicator PEB sensitivity outputs.
+peb_04_design_table.csv,PEB design table.
