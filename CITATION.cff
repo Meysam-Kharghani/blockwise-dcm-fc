@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the associated article and this repository release."
+message: "If you use this repository, please cite this software release and the associated article when available."
 title: "Block-Specific Full-Run DCM and Functional Connectivity Analysis"
 type: software
 authors:
@@ -16,14 +16,17 @@ authors:
     affiliation: "Medical Physics Department, Iran University of Medical Sciences, Tehran, Iran"
     email: zare.a@iums.ac.ir
 version: 1.0.0
-date-released: 2026-10-02
+date-released: 2026-10-04
 license: MIT
+abstract: "Analysis code, ROI masks, derived summary data, figure source data, quality-control outputs, and sensitivity-analysis materials supporting block-specific full-run dynamic causal modelling and functional-connectivity analyses of a visual one-back fMRI dataset."
 repository-code: "https://github.com/Meysam-Kharghani/blockwise-dcm-fc"
 url: "https://github.com/Meysam-Kharghani/blockwise-dcm-fc"
 keywords:
+  - blockwise analysis
   - dynamic causal modelling
   - effective connectivity
   - fMRI
   - functional connectivity
+  - neuroimaging
   - Parametric Empirical Bayes
   - visual one-back task
